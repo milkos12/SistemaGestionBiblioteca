@@ -19,5 +19,5 @@ Este proyecto es un sistema de gestión de biblioteca desarrollado en Java que p
 1. Clona este repositorio en tu máquina local:
 
    ```shell
-   git clone https://github.com/tuusuario/sistema-gestion-biblioteca.git
+   git clone https://github.com/milkos12/sistema-gestion-biblioteca.git
 
